@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs:*)",
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(pip3 show:*)",
+      "Bash(/tmp/pdfenv/bin/python3:*)",
+      "Bash(/opt/homebrew/bin/python3:*)",
+      "Bash(/tmp/pdf_venv/bin/python3:*)",
+      "Bash(/tmp/pptx_env/bin/python3:*)",
+      "Bash(\"/Users/miyaton/Library/CloudStorage/GoogleDrive-ueda@miyaton.com/マイドライブ/eMu/@生活クラブ風の村/20260216_説明会/.venv/bin/python3\" -c \"from pptx import Presentation; print\\(''OK''\\)\")",
+      "Bash(\"/Users/miyaton/Library/CloudStorage/GoogleDrive-ueda@miyaton.com/マイドライブ/eMu/@生活クラブ風の村/20260216_説明会/.venv/bin/python3\" \"/Users/miyaton/Library/CloudStorage/GoogleDrive-ueda@miyaton.com/マイドライブ/eMu/@生活クラブ風の村/20260216_説明会/create_slides.py\")"
+    ]
+  }
+}

@@ -6,7 +6,7 @@
   - `/Users/miyaton/Library/CloudStorage/GoogleDrive-ueda@miyaton.com/マイドライブ/eMu/@生活クラブ風の村/40_Phase0説明会_2026-02-16/02_台本/20260216_Phase0説明会_統合台本_MASTER.md`
 
 - 提出用スライド（現行）
-  - `/Users/miyaton/Library/CloudStorage/GoogleDrive-ueda@miyaton.com/マイドライブ/eMu/@生活クラブ風の村/40_Phase0説明会_2026-02-16/03_成果物/20260216_Phase0説明会_本編_v01.pptx`
+  - `/Users/miyaton/Library/CloudStorage/GoogleDrive-ueda@miyaton.com/マイドライブ/eMu/@生活クラブ風の村/40_Phase0説明会_2026-02-16/03_成果物/20260216_Phase0説明会_本編_v02_思考公開型.pptx`
 
 ## 更新予定
 
